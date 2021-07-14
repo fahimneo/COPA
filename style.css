@@ -65,7 +65,7 @@ transition: padding .5s ease-in;
      grid-column-gap: 27px; 
      margin-top: 70px;
      margin-bottom: 165px;
-     margin-left: 80px;
+     margin-left: 180px;
      margin-right: 210px;
  }
  
@@ -100,7 +100,7 @@ height: 426px;
  .box{
      display: grid;
      grid-template-columns: repeat(3, 1fr);
-     margin-left: 80px;
+     margin-left: 180px;
  }
  .border-box{
     width: 300px;
